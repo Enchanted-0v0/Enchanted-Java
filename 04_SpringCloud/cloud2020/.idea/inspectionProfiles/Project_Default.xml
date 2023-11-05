@@ -2,7 +2,7 @@
   <profile version="1.0">
     <option name="myName" value="Project Default" />
     <inspection_tool class="JavadocDeclaration" enabled="true" level="WARNING" enabled_by_default="true">
-      <option name="ADDITIONAL_TAGS" value="ClassName:,Description:,PackageName:com.enchanted.springcloud,Author,Date,Version,PackageName:com.enchanted.springcloud.entities,PackageName:com.enchanted.springcloud.dao,PackageName:com.enchanted.springcloud.service,PackageName:com.enchanted.springcloud.service.impl,PackageName:com.enchanted.springcloud.controller" />
+      <option name="ADDITIONAL_TAGS" value="ClassName:,Description:,PackageName:com.enchanted.springcloud,Author,Date,Version,PackageName:com.enchanted.springcloud.entities,PackageName:com.enchanted.springcloud.dao,PackageName:com.enchanted.springcloud.service,PackageName:com.enchanted.springcloud.service.impl,PackageName:com.enchanted.springcloud.controller,PackageName:com.enchanted.springcloud.config" />
     </inspection_tool>
   </profile>
 </component>

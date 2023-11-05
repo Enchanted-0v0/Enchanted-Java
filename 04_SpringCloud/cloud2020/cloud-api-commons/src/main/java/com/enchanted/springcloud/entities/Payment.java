@@ -8,10 +8,10 @@ import java.io.Serializable;
 
 /**
  * @ClassName: Payment
- * @Description: TODO: 实体类Payment
+ * @Description: TODO
  * @PackageName:com.enchanted.springcloud.entities
  * @Author Enchanted
- * @Date 2023/11/5 14:27
+ * @Date 2023/11/5 17:11
  * @Version 1.0
  */
 @Data
@@ -21,3 +21,4 @@ public class Payment implements Serializable {
     private Long id;
     private String serial;
 }
+

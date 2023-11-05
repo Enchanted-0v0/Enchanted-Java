@@ -6,10 +6,10 @@ import lombok.NoArgsConstructor;
 
 /**
  * @ClassName: CommonResult
- * @Description: TODO：JSON封装体CommonResult
+ * @Description: TODO：Json封装体
  * @PackageName:com.enchanted.springcloud.entities
  * @Author Enchanted
- * @Date 2023/11/5 14:27
+ * @Date 2023/11/5 17:11
  * @Version 1.0
  */
 @Data
@@ -24,3 +24,4 @@ public class CommonResult<T> {
         this(code, message, null);
     }
 }
+
