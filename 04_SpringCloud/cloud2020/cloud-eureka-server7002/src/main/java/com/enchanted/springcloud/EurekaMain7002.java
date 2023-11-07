@@ -2,20 +2,20 @@ package com.enchanted.springcloud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
+import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 
 /**
- * @ClassName: OrderMain80
- * @Description: TODO: 消费者订单模块主启动类
+ * @ClassName: EurekaMain7002
+ * @Description: TODO: Eureka7002 主启动类
  * @PackageName:com.enchanted.springcloud
  * @Author Enchanted
- * @Date 2023/11/5 15:07
+ * @Date 2023/11/7 01:24
  * @Version 1.0
  */
 @SpringBootApplication
-@EnableEurekaClient
-public class OrderMain80 {
+@EnableEurekaServer
+public class EurekaMain7002 {
     public static void main(String[] args) {
-        SpringApplication.run(OrderMain80.class, args);
+        SpringApplication.run(EurekaMain7002.class, args);
     }
 }
