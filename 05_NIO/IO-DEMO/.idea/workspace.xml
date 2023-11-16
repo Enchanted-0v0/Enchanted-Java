@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee955ce7-cc74-4307-8011-dce9a098c186" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ee955ce7-cc74-4307-8011-dce9a098c186" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +55,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "dev-NIO",
+    "git-widget-placeholder": "dev-SpringCloud",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -165,7 +163,7 @@
       <workItem from="1698989692141" duration="10258000" />
       <workItem from="1699021851849" duration="6947000" />
       <workItem from="1700034937800" duration="4461000" />
-      <workItem from="1700088949726" duration="5044000" />
+      <workItem from="1700088949726" duration="5450000" />
     </task>
     <task id="LOCAL-00001" summary="ServerSocketChannel">
       <option name="closed" value="true" />
