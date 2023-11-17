@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09788d1e-7226-419c-9344-ce3333c5d320" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8004/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="09788d1e-7226-419c-9344-ce3333c5d320" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -209,7 +205,8 @@
       <workItem from="1699369117003" duration="4360000" />
       <workItem from="1699526054978" duration="9000" />
       <workItem from="1699566726640" duration="2170000" />
-      <workItem from="1700153115385" duration="7060000" />
+      <workItem from="1700153115385" duration="7336000" />
+      <workItem from="1700195629935" duration="4000" />
     </task>
     <servers />
   </component>
