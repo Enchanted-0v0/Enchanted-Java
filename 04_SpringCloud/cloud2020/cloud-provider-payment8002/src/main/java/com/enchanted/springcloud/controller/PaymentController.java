@@ -48,4 +48,9 @@ public class PaymentController {
             return new CommonResult(444, "Query Failed! No ID", null);
         }
     }
+
+    @GetMapping(value = "/payment/lb")
+    public String getPaymentLB() {
+        return serverPort;//返回服务接口
+    }
 }
